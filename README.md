@@ -179,11 +179,14 @@ python hadith_translator.py --api-key "Api_key" --input-file "muslim.json" -t "j
 
 ```plaintext
 .
-├── hadith_translator.py   # Main script for translating Hadiths.
-├── input_file.json        # An example input JSON file.
-├── batch_translations/    # Folder where batch outputs are stored.
-├── final_translations.json  # Aggregated final output file.
-└── README.md              # Instructions and documentation.
+├── requirements.txt          # List of dependencies for the project.
+├── read.me                   # Instructions and documentation.
+├── code/                     # Folder containing the main script.
+│   └── hadith_translator.py  # Main script for translating Hadiths.
+├── Translated/               # Folder containing translations.
+    └── Hadiths/              # Subfolder for Hadiths translations.
+        └── Japanese/         # Subfolder for translations in Japanese.
+            └── [Translated books]  # Files for the translated books.
 ```
 
 ---

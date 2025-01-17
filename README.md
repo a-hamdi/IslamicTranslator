@@ -181,7 +181,7 @@ This project is open-sourced under the MIT License. See the [LICENSE](https://op
 
 ## Acknowledgements
 
-- Special thanks to the AhmedBaset : https://github.com/AhmedBaset/hadith-json for providing the json files!
+- Special thanks to the AhmedBaset : https://github.com/AhmedBaset/hadith-json for providing the english-arabic json files!
 - Built using the [Google Gemini API](https://developers.generativeai.google/).
 
 ---

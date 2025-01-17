@@ -16,7 +16,7 @@
 - **Customizable**: Configure batch sizes and translation steps to adapt to your needs.
 
 ---
-<img src="https://github.com/user-attachments/assets/07eee75a-73c6-4b41-9add-ad1c7bdb5f63" alt="Flowchart" width="500" height="auto">
+<img src="https://github.com/user-attachments/assets/07eee75a-73c6-4b41-9add-ad1c7bdb5f63" alt="Flowchart" width="1000" height="auto">
 
 
 ## How the Process Works

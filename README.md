@@ -87,6 +87,7 @@ The format of the input file should look like the following:
 }
 ```
 
+If you have a json file with a different format, change the code to make it compatible.
 ### Running the Script
 
 Once your input file is ready, you can run the script as follows:

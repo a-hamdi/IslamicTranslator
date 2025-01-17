@@ -60,7 +60,7 @@ pip install google-generativeai
 | Argument               | Short Flag | Description                           |
 |------------------------|------------|---------------------------------------|
 | `--api-key`            | `-k`       | Your Google Gemini API key.          |
-| `--input-file`          `-i`       | Path to the input JSON file of Hadiths.|
+| `--input-file`        |  `-i`       | Path to the input JSON file of Hadiths.|
 | `--target-language` | `-t` | Target language for translation (e.g., Japanese, French, Spanish) |
 
 ### Example Input JSON File Format

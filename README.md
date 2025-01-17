@@ -92,13 +92,13 @@ The format of the input file should look like the following:
 Once your input file is ready, you can run the script as follows:
 
 ```bash
-python hadith_translator.py --api-key "<YOUR_GEMINI_API_KEY>" --input-file "<YOUR_INPUT_JSON_FILE>"
+python hadith_translator.py --api-key "<YOUR_GEMINI_API_KEY>" --input-file "<YOUR_INPUT_JSON_FILE>" --target-language "language"
 ```
 
 Example:
 
 ```bash
-python hadith_translator.py --api-key "Api_key" --input-file "muslim.json"
+python hadith_translator.py --api-key "Api_key" --input-file "muslim.json" -t "japanese"
 ```
 
 ---

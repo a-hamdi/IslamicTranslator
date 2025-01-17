@@ -35,7 +35,31 @@
 
 ---
 
-## Requirements
+## Goals and Task List
+
+The main goal of this project is to translate all key books of Hadith to multiple languages, starting with Japanese. Below is a task list for translating the Hadith collections.
+
+### 9 Books of Hadith to translate:
+- [ ] **abudawud.json**  
+- [ ] **ahmed.json**  
+- [x] **bukhari.json**   
+- [ ] **darimi.json**  
+- [ ] **ibnmajah.json**  
+- [ ] **malik.json**  
+- [x] **muslim.json**  
+- [ ] **nasai.json**  
+- [ ] **tirmidhi.json**
+
+### Other Essential Books:
+- [ ] **nawawi40.json**
+- [ ] **qudsi40.json**
+- [ ] **shahwaliullah40.json**
+
+### Future Tasks:
+- [ ] Translate these books into **different languages** such as French, Spanish, German, and more.  
+- [ ] Expand support for additional books of Hadith.
+
+
 
 ### Dependencies
 
